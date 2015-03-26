@@ -1,0 +1,31 @@
+Data Cleaning and Visualization
+
+I created visualization by Plotly, which has emerged as a strong contender recently. After  account created, I uploaded my data set which already cleaned by Google refine. For example, when I build a bar chart for  Schedule & Cost Variance in US Department, I choose department name as x-axis, the Schedule Variance (%) and Cost Variance (%) as y-axis. After bar chart created,  I add title for plot, axis and customize the colors used. At last , share my plot in public and copy code from Embed plot in your site page to my webpage.
+
+Errors in data set.
+1.	Multiple Representations
+Lots error in Multiple Representations, such as Department of Agriculture, Agriculture department and DOA .
+
+2.	Data validation
+For example, 2012-30-09 and 31/03/2012.
+
+3.	Summation Records
+Under every group data of department, there is a total data. It¡¯s not convenient for re-process. 
+
+4.	Mixed use of numerical scales
+Some of data have numerical scales, like 1.338($m).
+
+5.	Mixed use of numerical scales 2
+Some of number using different counting way, like 3083 and 3,083
+
+6.	Data dislocation
+        Lots of data in the incorrect position, such as put project name into start date. 
+
+7.	For Unique Project ID, some data are right-aligned and some others are left-aligned.
+
+Data enrichment
+The total data in data set is not convenient for re-process, so I put all total data for different department into an independent dataset. At the same time, there are project names in different department, I counted the number of project in different department for my plot.
+
+
+The overview for target users and interaction showed in my website.
+
