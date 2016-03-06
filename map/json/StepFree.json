@@ -1,0 +1,116 @@
+[
+    {
+      "Building_Entrance" : "32A",
+      "Description of entrance" : "South entrance",
+      "location" : "50.93606,-1.39594"
+    },
+    {
+      "Building_Entrance" : "32B",
+      "Description of entrance" : "Back entrance",
+      "location" : "50.93641,-1.39574"
+    },
+    {
+      "Building_Entrance" : "85B",
+      "Description of entrance" : "Latte's entrance",
+      "location" : "50.9364,-1.39561"
+    },
+    {
+      "Building_Entrance" : "85A",
+      "Description of entrance" : "Reception entrance",
+      "location" : "50.93616,-1.39505"
+    },
+    {
+      "Building_Entrance" : "32C",
+      "Description of entrance" : "North entrance",
+      "location" : "50.9368,-1.39607"
+    },
+    {
+      "Building_Entrance" : "67A",
+      "Description of entrance" : "Reception entrance",
+      "location" : "50.93674,-1.39648"
+    },
+    {
+      "Building_Entrance" : "6A",
+      "Description of entrance" : "Interchange entrance",
+      "location" : "50.93613,-1.39745"
+    },
+    {
+      "Building_Entrance" : "6B",
+      "Description of entrance" : "Obelisk entrance",
+      "location" : "50.93596,-1.39755"
+    },
+    {
+      "Building_Entrance" : "4A",
+      "Description of entrance" : "Obelisk entrance",
+      "location" : "50.93581,-1.39778"
+    },
+    {
+      "Building_Entrance" : "6C",
+      "Description of entrance" : "Kitchen entrance",
+      "location" : "50.93612,-1.39786"
+    },
+    {
+      "Building_Entrance" : "2AA",
+      "Description of entrance" : "Main entrance",
+      "location" : "50.93642,-1.39772"
+    },
+    {
+      "Building_Entrance" : "2AB",
+      "Description of entrance" : "Interchange entrance",
+      "location" : "50.93632,-1.39741"
+    },
+    {
+      "Building_Entrance" : "2A",
+      "Description of entrance" : "Management entrance",
+      "location" : "50.93645,-1.39787"
+    },
+    {
+      "Building_Entrance" : "58A",
+      "Description of entrance" : "Car park entrance",
+      "location" : "50.9365,-1.39895"
+    },
+    {
+      "Building_Entrance" : "58C",
+      "Description of entrance" : "Side entrance",
+      "location" : "50.93666,-1.39902"
+    },
+    {
+      "Building_Entrance" : "58D",
+      "Description of entrance" : "ISS Computer Workstations entrance",
+      "location" : "50.93645,-1.39834"
+    },
+    {
+      "Building_Entrance" : "54A",
+      "Description of entrance" : "Car park entrance",
+      "location" : "50.9363,-1.39899"
+    },
+    {
+      "Building_Entrance" : "58AA",
+      "Description of entrance" : "Reception entrance",
+      "location" : "50.93688,-1.39791"
+    },
+    {
+      "Building_Entrance" : "53A",
+      "Description of entrance" : "Salisbury road entrance",
+      "location" : "50.93743,-1.39805"
+    },
+    {
+      "Building_Entrance" : "53B",
+      "Description of entrance" : "Banks entrance",
+      "location" : "50.93755,-1.39799"
+    },
+    {
+      "Building_Entrance" : "59A",
+      "Description of entrance" : "Side entrance",
+      "location" : "50.93713,-1.39771"
+    },
+    {
+      "Building_Entrance" : "42A",
+      "Description of entrance" : "Concourse entrance",
+      "location" : "50.93443,-1.39741"
+    },
+    {
+      "Building_Entrance" : "42B",
+      "Description of entrance" : "Piazz@soton",
+      "location" : "50.93443,-1.39724"
+    }]
